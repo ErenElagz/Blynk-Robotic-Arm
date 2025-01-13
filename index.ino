@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL6oQFxrxuW"
-#define BLYNK_TEMPLATE_NAME "Robotic arm"
-#define BLYNK_AUTH_TOKEN "V0S5iPQLYu5o4mFB4poTxfVvEGS0rhMR"   // E-posta ile gelen token
+#define BLYNK_TEMPLATE_ID "Template ID"
+#define BLYNK_TEMPLATE_NAME "Your Template Name"
+#define BLYNK_AUTH_TOKEN "Your Auth Token"   // E-posta ile gelen token
 
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
