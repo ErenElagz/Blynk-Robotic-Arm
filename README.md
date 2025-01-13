@@ -83,6 +83,7 @@ This project allows you to control a robotic arm using an ESP32, stepper motors,
 
 ---
 ## Images of the Project
+![WhatsApp Image 2025-01-13 at 15 56 33_5915d489](https://github.com/user-attachments/assets/735a16b9-e1b4-454d-8bcc-ff8f48f33195)
 ![WhatsApp Image 2025-01-12 at 17 49 42_f45e9170](https://github.com/user-attachments/assets/754a054d-2a92-436c-87da-0ed87df24cde)
 ![WhatsApp Image 2025-01-12 at 17 28 43_639b023d](https://github.com/user-attachments/assets/ceb7210a-be6f-4bd6-8d41-e786c81a0d7a)
 ![WhatsApp Image 2025-01-12 at 17 49 42_c8b4a143](https://github.com/user-attachments/assets/1986eaea-c05b-4d2d-a15e-d235c3e2c678)
