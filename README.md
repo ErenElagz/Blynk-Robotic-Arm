@@ -82,6 +82,13 @@ This project allows you to control a robotic arm using an ESP32, stepper motors,
 6. Upload the code to the ESP32 using the Arduino IDE.
 
 ---
+## Images of the Project
+![WhatsApp Image 2025-01-12 at 17 49 42_f45e9170](https://github.com/user-attachments/assets/754a054d-2a92-436c-87da-0ed87df24cde)
+![WhatsApp Image 2025-01-12 at 17 28 43_639b023d](https://github.com/user-attachments/assets/ceb7210a-be6f-4bd6-8d41-e786c81a0d7a)
+![WhatsApp Image 2025-01-12 at 17 49 42_c8b4a143](https://github.com/user-attachments/assets/1986eaea-c05b-4d2d-a15e-d235c3e2c678)
+
+
+---
 
 ## Code Explanation
 
